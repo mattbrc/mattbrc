@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! 👋
+
+I'm Matt, a full stack web3 dev currently building midwit.io. 
+
+Hobbies include hiking tall mountains in Colorado, snowboarding, running, and building web3 projects.
 
 <!--
 **mattbrc/mattbrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
