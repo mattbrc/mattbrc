@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Matt, a full stack web3 dev currently building midwit.io. 
+I'm Matt, a full stack web3 dev currently building [midwit.io](https://www.midwit.io/). 
 
 Hobbies include hiking tall mountains in Colorado, snowboarding, running, and building web3 projects.
 
