@@ -4,6 +4,8 @@ I'm Matt, a full stack web3 dev currently building [midwit.io](https://www.midwi
 
 Hobbies include hiking tall mountains in Colorado, snowboarding, running, and building web3 projects.
 
+You can find my full resume [here](https://mattbrc.notion.site/Matt-Wilder-272ac727e34d487b8426d89cd06bc45b).
+
 <!--
 **mattbrc/mattbrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
