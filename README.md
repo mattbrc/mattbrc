@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Matt, a full stack web3 dev currently building [midwit.io](https://www.midwit.io/) and working with [Student DAO](https://www.joinstudentdao.com/) on the initial launch.
+I'm Matt, a full stack web3 dev currently building Anorra, a web based MMORPG that simplifies DeFi adoption, and working with [Student DAO](https://www.joinstudentdao.com/) on the initial launch.
 
 Hobbies include hiking tall mountains in Colorado, snowboarding, running, and building web3 projects.
 
